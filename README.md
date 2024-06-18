@@ -1,6 +1,6 @@
 # Technical Competency Demo
 
-Welcome, you have landed on the github repo for Albert Lee
+Welcome, you have landed on the github repo page of Albert Lee
 
 This repo showcases the coding capabilities for Albert Lee on SQL and Python
 
